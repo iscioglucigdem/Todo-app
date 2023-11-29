@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721410589665",
+    "project_id": "todo-etkinlik",
+    "storage_bucket": "todo-etkinlik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721410589665:android:9257bf5a35e23b4b6b88a0",
+        "android_client_info": {
+          "package_name": "com.example.etkinlik_alarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjOZdPY_o0gM8jn022YG0dqi9ISGSqgI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
